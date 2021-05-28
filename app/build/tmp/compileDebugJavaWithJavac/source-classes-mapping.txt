@@ -1,0 +1,53 @@
+com/example/exampleapp/data/utils/ExampleApplication.java
+ com.example.exampleapp.data.utils.ExampleApplication
+ com.example.exampleapp.data.utils.ExampleApplication$1
+com/example/exampleapp/data/utils/ServiceLocator.java
+ com.example.exampleapp.data.utils.ServiceLocator
+com/example/exampleapp/data/examplename/ExampleRepository.java
+ com.example.exampleapp.data.examplename.ExampleRepository
+ com.example.exampleapp.data.examplename.ExampleRepository$ExampleCallback
+com/example/exampleapp/data/examplename/local/ExampleDao.java
+ com.example.exampleapp.data.examplename.local.ExampleDao
+com/example/exampleapp/data/utils/Connect.java
+ com.example.exampleapp.data.utils.Connect
+com/example/exampleapp/data/utils/ExampleAppExecutors.java
+ com.example.exampleapp.data.utils.ExampleAppExecutors
+ com.example.exampleapp.data.utils.ExampleAppExecutors$1
+ com.example.exampleapp.data.utils.ExampleAppExecutors$MainThreadExecutor
+com/example/exampleapp/FirstFragment.java
+ com.example.exampleapp.FirstFragment
+ com.example.exampleapp.FirstFragment$1
+com/example/exampleapp/MainActivity.java
+ com.example.exampleapp.MainActivity
+ com.example.exampleapp.MainActivity$1
+com/example/exampleapp/databinding/ContentMainBinding.java
+ com.example.exampleapp.databinding.ContentMainBinding
+com/example/exampleapp/data/utils/DiskIOExecutor.java
+ com.example.exampleapp.data.utils.DiskIOExecutor
+com/example/exampleapp/databinding/FragmentFirstBinding.java
+ com.example.exampleapp.databinding.FragmentFirstBinding
+com/example/exampleapp/databinding/ActivityMainBinding.java
+ com.example.exampleapp.databinding.ActivityMainBinding
+com/example/exampleapp/BuildConfig.java
+ com.example.exampleapp.BuildConfig
+com/example/exampleapp/data/examplename/local/LocalDataSource.java
+ com.example.exampleapp.data.examplename.local.LocalDataSource
+com/example/exampleapp/data/examplename/remote/Connect.java
+ com.example.exampleapp.data.examplename.remote.Connect
+ com.example.exampleapp.data.examplename.remote.Connect$1
+ com.example.exampleapp.data.examplename.remote.Connect$2
+com/example/exampleapp/data/utils/ApplicationDatabase.java
+ com.example.exampleapp.data.utils.ApplicationDatabase
+com/example/exampleapp/data/examplename/model/ExampleModel.java
+ com.example.exampleapp.data.examplename.model.ExampleModel
+com/example/exampleapp/viewmodels/utils/ViewModelFactory.java
+ com.example.exampleapp.viewmodels.utils.ViewModelFactory
+com/example/exampleapp/viewmodels/ExampleViewModel.java
+ com.example.exampleapp.viewmodels.ExampleViewModel
+com/example/exampleapp/SecondFragment.java
+ com.example.exampleapp.SecondFragment
+ com.example.exampleapp.SecondFragment$1
+com/example/exampleapp/databinding/FragmentSecondBinding.java
+ com.example.exampleapp.databinding.FragmentSecondBinding
+com/example/exampleapp/data/examplename/utils/ExampleConverters.java
+ com.example.exampleapp.data.examplename.utils.ExampleConverters
